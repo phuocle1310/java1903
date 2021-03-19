@@ -1,0 +1,7 @@
+com\lhp\config\HibernateUtils.class
+com\lhp\service\ProductChecker.class
+com\lhp\service\CategoryService.class
+com\lhp\pojo\Product.class
+com\lhp\pojo\Category.class
+com\lhp\saleapp\Tester.class
+com\lhp\service\ProductService.class
